@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoStoreDataModel", "VideoStoreDataModel\VideoStoreDataModel.vbproj", "{E11496CF-30EC-49AE-B838-DE3C1922240D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IncLoadTestCase", "IncLoadTestCase\IncLoadTestCase.vbproj", "{F5013ED6-30C1-4DBA-A726-1DB0230B5B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Debug.ActiveCfg = Debug|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Debug.Build.0 = Debug|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Release.ActiveCfg = Release|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Release.Build.0 = Release|.NET
+		{F5013ED6-30C1-4DBA-A726-1DB0230B5B70}.Debug.ActiveCfg = Debug|.NET
+		{F5013ED6-30C1-4DBA-A726-1DB0230B5B70}.Debug.Build.0 = Debug|.NET
+		{F5013ED6-30C1-4DBA-A726-1DB0230B5B70}.Release.ActiveCfg = Release|.NET
+		{F5013ED6-30C1-4DBA-A726-1DB0230B5B70}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

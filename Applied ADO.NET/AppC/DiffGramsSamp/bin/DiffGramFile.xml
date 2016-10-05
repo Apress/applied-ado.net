@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <TempDtSet>
+    <DtSet diffgr:id="DtSet1" msdata:rowOrder="0">
+      <EmployeeID>1</EmployeeID>
+      <FirstName>Nancy</FirstName>
+      <LastName>Davolio</LastName>
+      <Title>Sales Representative</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet2" msdata:rowOrder="1">
+      <EmployeeID>2</EmployeeID>
+      <FirstName>Andrew</FirstName>
+      <LastName>Fuller</LastName>
+      <Title>Vice President, Sales</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet3" msdata:rowOrder="2">
+      <EmployeeID>3</EmployeeID>
+      <FirstName>Janet</FirstName>
+      <LastName>Leverling</LastName>
+      <Title>Sales Representative</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet4" msdata:rowOrder="3">
+      <EmployeeID>4</EmployeeID>
+      <FirstName>Margaret</FirstName>
+      <LastName>Peacock</LastName>
+      <Title>Sales Representative</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet5" msdata:rowOrder="4">
+      <EmployeeID>5</EmployeeID>
+      <FirstName>Steven</FirstName>
+      <LastName>Buchanan</LastName>
+      <Title>Sales Manager</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet6" msdata:rowOrder="5">
+      <EmployeeID>6</EmployeeID>
+      <FirstName>Michael</FirstName>
+      <LastName>Suyama</LastName>
+      <Title>Sales Representative</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet7" msdata:rowOrder="6">
+      <EmployeeID>7</EmployeeID>
+      <FirstName>Robert</FirstName>
+      <LastName>King</LastName>
+      <Title>Sales Representative</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet8" msdata:rowOrder="7">
+      <EmployeeID>8</EmployeeID>
+      <FirstName>Laura</FirstName>
+      <LastName>Callahan</LastName>
+      <Title>Inside Sales Coordinator</Title>
+    </DtSet>
+    <DtSet diffgr:id="DtSet9" msdata:rowOrder="8">
+      <EmployeeID>9</EmployeeID>
+      <FirstName>Anne</FirstName>
+      <LastName>Dodsworth</LastName>
+      <Title>Sales Representative</Title>
+    </DtSet>
+  </TempDtSet>
+</diffgr:diffgram>

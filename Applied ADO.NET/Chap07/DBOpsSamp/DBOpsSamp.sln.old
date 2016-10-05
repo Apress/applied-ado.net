@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DBOpsSamp", "DBOpsSamp.vbproj", "{EC5B47FB-F3CC-4234-BFC9-EDC9D87E8B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EC5B47FB-F3CC-4234-BFC9-EDC9D87E8B4E}.Debug.ActiveCfg = Debug|.NET
+		{EC5B47FB-F3CC-4234-BFC9-EDC9D87E8B4E}.Debug.Build.0 = Debug|.NET
+		{EC5B47FB-F3CC-4234-BFC9-EDC9D87E8B4E}.Release.ActiveCfg = Release|.NET
+		{EC5B47FB-F3CC-4234-BFC9-EDC9D87E8B4E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataViewSamp", "DataViewSamp.vbproj", "{99B656F9-0FD1-415B-8FEA-BEFC4C7EF961}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{99B656F9-0FD1-415B-8FEA-BEFC4C7EF961}.Debug.ActiveCfg = Debug|.NET
+		{99B656F9-0FD1-415B-8FEA-BEFC4C7EF961}.Debug.Build.0 = Debug|.NET
+		{99B656F9-0FD1-415B-8FEA-BEFC4C7EF961}.Release.ActiveCfg = Release|.NET
+		{99B656F9-0FD1-415B-8FEA-BEFC4C7EF961}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

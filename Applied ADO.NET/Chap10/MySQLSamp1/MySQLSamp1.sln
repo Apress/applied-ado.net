@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MySQLSamp1", "MySQLSamp1.vbproj", "{984D64ED-BEB3-48C9-A48D-18E6563D6066}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{984D64ED-BEB3-48C9-A48D-18E6563D6066}.Debug.ActiveCfg = Debug|.NET
+		{984D64ED-BEB3-48C9-A48D-18E6563D6066}.Debug.Build.0 = Debug|.NET
+		{984D64ED-BEB3-48C9-A48D-18E6563D6066}.Release.ActiveCfg = Release|.NET
+		{984D64ED-BEB3-48C9-A48D-18E6563D6066}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataGridTableStyleSamp2", "DataGridTableStyleSamp2.vbproj", "{F92BCC6F-D5BE-4A7C-A307-C5954017408C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F92BCC6F-D5BE-4A7C-A307-C5954017408C}.Debug.ActiveCfg = Debug|.NET
+		{F92BCC6F-D5BE-4A7C-A307-C5954017408C}.Debug.Build.0 = Debug|.NET
+		{F92BCC6F-D5BE-4A7C-A307-C5954017408C}.Release.ActiveCfg = Release|.NET
+		{F92BCC6F-D5BE-4A7C-A307-C5954017408C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

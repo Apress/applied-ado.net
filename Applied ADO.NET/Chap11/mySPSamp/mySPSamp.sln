@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "mySPSamp", "mySPSamp.vbproj", "{3DE124CE-A2EC-4395-9DE7-985CD47C422E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3DE124CE-A2EC-4395-9DE7-985CD47C422E}.Debug.ActiveCfg = Debug|.NET
+		{3DE124CE-A2EC-4395-9DE7-985CD47C422E}.Debug.Build.0 = Debug|.NET
+		{3DE124CE-A2EC-4395-9DE7-985CD47C422E}.Release.ActiveCfg = Release|.NET
+		{3DE124CE-A2EC-4395-9DE7-985CD47C422E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

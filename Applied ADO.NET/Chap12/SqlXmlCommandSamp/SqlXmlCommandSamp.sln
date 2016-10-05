@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SqlXmlCommandSamp", "SqlXmlCommandSamp.vbproj", "{F7A3989D-4BAC-4262-86D8-6F3A398E694D}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F7A3989D-4BAC-4262-86D8-6F3A398E694D}.Debug.ActiveCfg = Debug|.NET
+		{F7A3989D-4BAC-4262-86D8-6F3A398E694D}.Debug.Build.0 = Debug|.NET
+		{F7A3989D-4BAC-4262-86D8-6F3A398E694D}.Release.ActiveCfg = Release|.NET
+		{F7A3989D-4BAC-4262-86D8-6F3A398E694D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

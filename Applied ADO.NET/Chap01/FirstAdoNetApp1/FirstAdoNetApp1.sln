@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FirstAdoNetApp1", "FirstAdoNetApp1.vbproj", "{8FA12DD8-CF04-44E4-8F9A-4A5F2A0422DC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8FA12DD8-CF04-44E4-8F9A-4A5F2A0422DC}.Debug.ActiveCfg = Debug|.NET
+		{8FA12DD8-CF04-44E4-8F9A-4A5F2A0422DC}.Debug.Build.0 = Debug|.NET
+		{8FA12DD8-CF04-44E4-8F9A-4A5F2A0422DC}.Release.ActiveCfg = Release|.NET
+		{8FA12DD8-CF04-44E4-8F9A-4A5F2A0422DC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

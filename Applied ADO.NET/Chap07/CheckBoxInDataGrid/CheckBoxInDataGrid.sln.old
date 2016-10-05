@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CheckBoxInDataGrid", "CheckBoxInDataGrid.vbproj", "{61DC87DD-9FE4-4FB7-9934-C8A0182FE77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{61DC87DD-9FE4-4FB7-9934-C8A0182FE77F}.Debug.ActiveCfg = Debug|.NET
+		{61DC87DD-9FE4-4FB7-9934-C8A0182FE77F}.Debug.Build.0 = Debug|.NET
+		{61DC87DD-9FE4-4FB7-9934-C8A0182FE77F}.Release.ActiveCfg = Release|.NET
+		{61DC87DD-9FE4-4FB7-9934-C8A0182FE77F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

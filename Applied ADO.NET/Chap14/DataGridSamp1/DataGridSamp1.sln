@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataGridSamp1", "http://localhost/AppliedADONet/DataGridSamp1/DataGridSamp1.vbproj", "{0AAEF822-138C-4DD4-B3D7-CB3B626095C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0AAEF822-138C-4DD4-B3D7-CB3B626095C9}.Debug.ActiveCfg = Debug|.NET
+		{0AAEF822-138C-4DD4-B3D7-CB3B626095C9}.Debug.Build.0 = Debug|.NET
+		{0AAEF822-138C-4DD4-B3D7-CB3B626095C9}.Release.ActiveCfg = Release|.NET
+		{0AAEF822-138C-4DD4-B3D7-CB3B626095C9}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DatabaseExplorer", "DatabaseExplorer.vbproj", "{A51D5CFA-8AA7-41B6-8BC2-93F804C1BC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A51D5CFA-8AA7-41B6-8BC2-93F804C1BC67}.Debug.ActiveCfg = Debug|.NET
+		{A51D5CFA-8AA7-41B6-8BC2-93F804C1BC67}.Debug.Build.0 = Debug|.NET
+		{A51D5CFA-8AA7-41B6-8BC2-93F804C1BC67}.Release.ActiveCfg = Release|.NET
+		{A51D5CFA-8AA7-41B6-8BC2-93F804C1BC67}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

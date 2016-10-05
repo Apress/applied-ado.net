@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AdoxInADONetSamp", "AdoxInADONetSamp.vbproj", "{C37D1290-C00A-4F97-9FDC-1C2D24C0DFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C37D1290-C00A-4F97-9FDC-1C2D24C0DFFA}.Debug.ActiveCfg = Debug|.NET
+		{C37D1290-C00A-4F97-9FDC-1C2D24C0DFFA}.Debug.Build.0 = Debug|.NET
+		{C37D1290-C00A-4F97-9FDC-1C2D24C0DFFA}.Release.ActiveCfg = Release|.NET
+		{C37D1290-C00A-4F97-9FDC-1C2D24C0DFFA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

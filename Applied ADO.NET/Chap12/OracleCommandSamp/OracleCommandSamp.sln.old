@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OracleCommandSamp", "OracleCommandSamp.vbproj", "{DA9CAD32-A3B6-401A-B1FA-24AE490C0AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DA9CAD32-A3B6-401A-B1FA-24AE490C0AE9}.Debug.ActiveCfg = Debug|.NET
+		{DA9CAD32-A3B6-401A-B1FA-24AE490C0AE9}.Debug.Build.0 = Debug|.NET
+		{DA9CAD32-A3B6-401A-B1FA-24AE490C0AE9}.Release.ActiveCfg = Release|.NET
+		{DA9CAD32-A3B6-401A-B1FA-24AE490C0AE9}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

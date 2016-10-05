@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoStoreDataModel", "VideoStoreDataModel\VideoStoreDataModel.vbproj", "{E11496CF-30EC-49AE-B838-DE3C1922240D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoStoreWeb", "http://localhost/VideoStoreWeb/VideoStoreWeb.vbproj", "{8A40EE1F-4C71-4DBC-91FD-EB4C7FDE9061}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UserTestCase", "UserTestCase\UserTestCase.vbproj", "{26BB9CF0-87AB-4704-9686-A5355EFEE319}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoTapeTestCase", "VideoTapeTestCase\VideoTapeTestCase.vbproj", "{E4CF3DC1-646A-4FCB-BAAF-C4B0D46BDBFA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoCheckInCheckOutTestCase", "VideoCheckInCheckOutTestCase\VideoCheckInCheckOutTestCase.vbproj", "{9B37ABAD-9FEC-48E3-80AF-DC6CA662A03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Debug.ActiveCfg = Debug|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Debug.Build.0 = Debug|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Release.ActiveCfg = Release|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Release.Build.0 = Release|.NET
+		{8A40EE1F-4C71-4DBC-91FD-EB4C7FDE9061}.Debug.ActiveCfg = Debug|.NET
+		{8A40EE1F-4C71-4DBC-91FD-EB4C7FDE9061}.Debug.Build.0 = Debug|.NET
+		{8A40EE1F-4C71-4DBC-91FD-EB4C7FDE9061}.Release.ActiveCfg = Release|.NET
+		{8A40EE1F-4C71-4DBC-91FD-EB4C7FDE9061}.Release.Build.0 = Release|.NET
+		{26BB9CF0-87AB-4704-9686-A5355EFEE319}.Debug.ActiveCfg = Debug|.NET
+		{26BB9CF0-87AB-4704-9686-A5355EFEE319}.Debug.Build.0 = Debug|.NET
+		{26BB9CF0-87AB-4704-9686-A5355EFEE319}.Release.ActiveCfg = Release|.NET
+		{26BB9CF0-87AB-4704-9686-A5355EFEE319}.Release.Build.0 = Release|.NET
+		{E4CF3DC1-646A-4FCB-BAAF-C4B0D46BDBFA}.Debug.ActiveCfg = Debug|.NET
+		{E4CF3DC1-646A-4FCB-BAAF-C4B0D46BDBFA}.Debug.Build.0 = Debug|.NET
+		{E4CF3DC1-646A-4FCB-BAAF-C4B0D46BDBFA}.Release.ActiveCfg = Release|.NET
+		{E4CF3DC1-646A-4FCB-BAAF-C4B0D46BDBFA}.Release.Build.0 = Release|.NET
+		{9B37ABAD-9FEC-48E3-80AF-DC6CA662A03E}.Debug.ActiveCfg = Debug|.NET
+		{9B37ABAD-9FEC-48E3-80AF-DC6CA662A03E}.Debug.Build.0 = Debug|.NET
+		{9B37ABAD-9FEC-48E3-80AF-DC6CA662A03E}.Release.ActiveCfg = Release|.NET
+		{9B37ABAD-9FEC-48E3-80AF-DC6CA662A03E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

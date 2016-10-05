@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="XMLSchema1" targetNamespace="http://tempuri.org/XMLSchema1.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLSchema1.xsd" xmlns:mstns="http://tempuri.org/XMLSchema1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="bookstore" type="bookstoretype"></xs:element>
+	<xs:complexType name="book">
+		<xs:complexContent>
+			<xs:restriction base="booktype">
+				<xs:sequence>
+					<xs:element name="title" type="xs:string" />
+					<xs:element name="author" type="authorname" />
+					<xs:element name="price" type="xs:decimal" />
+					<xs:element name="category" type="xs:string" />
+				</xs:sequence>
+			</xs:restriction>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="author">
+		<xs:complexContent>
+			<xs:restriction base="authorname">
+				<xs:sequence>
+					<xs:element name="first-name" type="xs:string" />
+					<xs:element name="last-name" type="xs:string" />
+				</xs:sequence>
+			</xs:restriction>
+		</xs:complexContent>
+	</xs:complexType>
+</xs:schema>

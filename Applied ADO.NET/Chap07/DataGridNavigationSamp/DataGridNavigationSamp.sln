@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataGridNavigationSamp", "DataGridNavigationSamp.vbproj", "{D68D562D-C833-4326-A9BA-76A7501187E2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D68D562D-C833-4326-A9BA-76A7501187E2}.Debug.ActiveCfg = Debug|.NET
+		{D68D562D-C833-4326-A9BA-76A7501187E2}.Debug.Build.0 = Debug|.NET
+		{D68D562D-C833-4326-A9BA-76A7501187E2}.Release.ActiveCfg = Release|.NET
+		{D68D562D-C833-4326-A9BA-76A7501187E2}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

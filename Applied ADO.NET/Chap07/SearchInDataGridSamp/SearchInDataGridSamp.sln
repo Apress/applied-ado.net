@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SearchInDataGridSamp", "SearchInDataGridSamp.vbproj", "{E3BFCE31-15C6-4208-9ECA-A33FEC2BEEFF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E3BFCE31-15C6-4208-9ECA-A33FEC2BEEFF}.Debug.ActiveCfg = Debug|.NET
+		{E3BFCE31-15C6-4208-9ECA-A33FEC2BEEFF}.Debug.Build.0 = Debug|.NET
+		{E3BFCE31-15C6-4208-9ECA-A33FEC2BEEFF}.Release.ActiveCfg = Release|.NET
+		{E3BFCE31-15C6-4208-9ECA-A33FEC2BEEFF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

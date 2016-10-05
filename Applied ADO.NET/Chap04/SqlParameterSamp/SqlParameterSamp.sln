@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SqlParameterSamp", "SqlParameterSamp.vbproj", "{3CA0F88B-BB23-4BC5-8FD1-2E1F8A092DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3CA0F88B-BB23-4BC5-8FD1-2E1F8A092DBA}.Debug.ActiveCfg = Debug|.NET
+		{3CA0F88B-BB23-4BC5-8FD1-2E1F8A092DBA}.Debug.Build.0 = Debug|.NET
+		{3CA0F88B-BB23-4BC5-8FD1-2E1F8A092DBA}.Release.ActiveCfg = Release|.NET
+		{3CA0F88B-BB23-4BC5-8FD1-2E1F8A092DBA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

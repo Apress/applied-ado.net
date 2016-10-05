@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PipedDataProvider", "PipedDataProvider\PipedDataProvider.vbproj", "{73F74E85-E495-4C93-8BCC-1C9C40C0D8C2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PipedDataTestCase", "PipedDataTestCase\PipedDataTestCase.vbproj", "{A8CDA0D1-2BE1-4C7B-BDBD-5C764A86BAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{73F74E85-E495-4C93-8BCC-1C9C40C0D8C2}.Debug.ActiveCfg = Debug|.NET
+		{73F74E85-E495-4C93-8BCC-1C9C40C0D8C2}.Debug.Build.0 = Debug|.NET
+		{73F74E85-E495-4C93-8BCC-1C9C40C0D8C2}.Release.ActiveCfg = Release|.NET
+		{73F74E85-E495-4C93-8BCC-1C9C40C0D8C2}.Release.Build.0 = Release|.NET
+		{A8CDA0D1-2BE1-4C7B-BDBD-5C764A86BAB7}.Debug.ActiveCfg = Debug|.NET
+		{A8CDA0D1-2BE1-4C7B-BDBD-5C764A86BAB7}.Debug.Build.0 = Debug|.NET
+		{A8CDA0D1-2BE1-4C7B-BDBD-5C764A86BAB7}.Release.ActiveCfg = Release|.NET
+		{A8CDA0D1-2BE1-4C7B-BDBD-5C764A86BAB7}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

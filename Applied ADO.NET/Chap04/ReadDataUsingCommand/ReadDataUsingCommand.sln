@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ReadDataUsingCommand", "ReadDataUsingCommand.vbproj", "{DF8DF2B0-1785-44F1-A46E-E84CB764CE9F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DF8DF2B0-1785-44F1-A46E-E84CB764CE9F}.Debug.ActiveCfg = Debug|.NET
+		{DF8DF2B0-1785-44F1-A46E-E84CB764CE9F}.Debug.Build.0 = Debug|.NET
+		{DF8DF2B0-1785-44F1-A46E-E84CB764CE9F}.Release.ActiveCfg = Release|.NET
+		{DF8DF2B0-1785-44F1-A46E-E84CB764CE9F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

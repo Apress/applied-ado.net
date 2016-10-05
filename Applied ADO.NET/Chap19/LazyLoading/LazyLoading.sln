@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoStoreDataModel", "VideoStoreDataModel\VideoStoreDataModel.vbproj", "{E11496CF-30EC-49AE-B838-DE3C1922240D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LazyLoadingWeb", "http://localhost/LazyLoadingWeb/LazyLoadingWeb.vbproj", "{1D89FEA4-27A0-40FA-9925-E803926FE982}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CategoryTreeWeb", "http://localhost/CategoryTreeWeb/CategoryTreeWeb.vbproj", "{9E00CC1A-F62F-4837-91FA-30568D5B2B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Debug.ActiveCfg = Debug|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Debug.Build.0 = Debug|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Release.ActiveCfg = Release|.NET
+		{E11496CF-30EC-49AE-B838-DE3C1922240D}.Release.Build.0 = Release|.NET
+		{1D89FEA4-27A0-40FA-9925-E803926FE982}.Debug.ActiveCfg = Debug|.NET
+		{1D89FEA4-27A0-40FA-9925-E803926FE982}.Debug.Build.0 = Debug|.NET
+		{1D89FEA4-27A0-40FA-9925-E803926FE982}.Release.ActiveCfg = Release|.NET
+		{1D89FEA4-27A0-40FA-9925-E803926FE982}.Release.Build.0 = Release|.NET
+		{9E00CC1A-F62F-4837-91FA-30568D5B2B20}.Debug.ActiveCfg = Debug|.NET
+		{9E00CC1A-F62F-4837-91FA-30568D5B2B20}.Debug.Build.0 = Debug|.NET
+		{9E00CC1A-F62F-4837-91FA-30568D5B2B20}.Release.ActiveCfg = Release|.NET
+		{9E00CC1A-F62F-4837-91FA-30568D5B2B20}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

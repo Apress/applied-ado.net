@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataGridResearch", "DataGridResearch.vbproj", "{C3EB5D45-A2C3-4C37-ACA0-AE44597D4DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C3EB5D45-A2C3-4C37-ACA0-AE44597D4DEE}.Debug.ActiveCfg = Debug|.NET
+		{C3EB5D45-A2C3-4C37-ACA0-AE44597D4DEE}.Debug.Build.0 = Debug|.NET
+		{C3EB5D45-A2C3-4C37-ACA0-AE44597D4DEE}.Release.ActiveCfg = Release|.NET
+		{C3EB5D45-A2C3-4C37-ACA0-AE44597D4DEE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

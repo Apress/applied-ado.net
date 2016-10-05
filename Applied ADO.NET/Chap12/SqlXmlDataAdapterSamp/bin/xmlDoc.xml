@@ -1,0 +1,17 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns:sql="urn:schemas-microsoft-com:mapping-schema">
+  <xsd:element name="EmployeeElement" sql:relation="Employees" >
+   <xsd:complexType>
+     <xsd:sequence>
+        <xsd:element name="FName"  
+                     sql:field="FirstName" 
+                     type="xsd:string" /> 
+        <xsd:element name="LName"  
+                     sql:field="LastName"  
+                     type="xsd:string" />
+     </xsd:sequence>
+     <xsd:attribute name="EmployeeID" type="xsd:integer" />
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>
+

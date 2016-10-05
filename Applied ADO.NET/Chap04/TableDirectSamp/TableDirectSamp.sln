@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TableDirectSamp", "TableDirectSamp.vbproj", "{61417E91-606E-489B-ABAF-C33E88AECDC5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{61417E91-606E-489B-ABAF-C33E88AECDC5}.Debug.ActiveCfg = Debug|.NET
+		{61417E91-606E-489B-ABAF-C33E88AECDC5}.Debug.Build.0 = Debug|.NET
+		{61417E91-606E-489B-ABAF-C33E88AECDC5}.Release.ActiveCfg = Release|.NET
+		{61417E91-606E-489B-ABAF-C33E88AECDC5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
